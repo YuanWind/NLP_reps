@@ -8,3 +8,4 @@
 5. HanLP：[github仓库地址](https://github.com/hankcs/HanLP)，大快搜索主持开发的汉语言处理包；
 6. spaCy：[github仓库地址](https://github.com/explosion/spaCy)，spaCy是世界上最快的工业级自然语言处理工具。 支持多种自然语言处理基本功能；
 7. TextBlob：[github仓库地址](https://github.com/sloria/TextBlob)，一个处理文本数据的python库；
+8. jieba：[github仓库地址](https://github.com/fxsjy/jieba)，最好用的中文分词库
